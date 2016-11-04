@@ -18,3 +18,4 @@
 
 * 数据结构
    * [选择排序](https://github.com/anAngryAnt/LearningNotes/blob/master/Part3/Algorithm/Sort/选择排序.md)
+   * [冒泡排序](http://www.cnblogs.com/xiaoming0601/p/5866048.html)
