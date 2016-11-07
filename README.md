@@ -4,6 +4,7 @@
     * [SparseArray SparseIntArray SparseBooleanArray](http://www.lxway.com/42920216.htm)  
     * [Looper Handler Message 之间的关系](http://blog.csdn.net/lmj623565791/article/details/38377229) 
     * [android View事件分发机制](http://blog.csdn.net/lmj623565791/article/details/38960443)
+    * [android ViewGroup 事件分发机制](http://blog.csdn.net/lmj623565791/article/details/39102591)
     
     
     
