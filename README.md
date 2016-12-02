@@ -1,5 +1,6 @@
 # MyLearn
 * Android知识点
+
     * [java 强引用 软引用 弱引用 虚引用](http://blog.csdn.net/lengyuhong/article/details/6398184)
     * [SparseArray SparseIntArray SparseBooleanArray](http://www.lxway.com/42920216.htm)  
     * [Looper Handler Message 之间的关系](http://blog.csdn.net/lmj623565791/article/details/38377229) 
@@ -13,10 +14,12 @@
     * [Android 动画介绍](http://blog.csdn.net/guolin_blog/article/details/43536355)
 
     
-    
-    
-    
-    
+ --------------------------------------------------------------------------------------------------------   
+ 
+ * 面试系列
+   * [Android 面试系列](http://www.jianshu.com/users/f9fbc7a39b36/latest_articles)
+   * [一片枫叶面试总结](http://blog.csdn.net/qq_23547831/article/details/52343837)
+    
     
     
     
