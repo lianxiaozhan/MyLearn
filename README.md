@@ -10,7 +10,6 @@
     * [Android跨进程通信之AIDL快速入门](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650237646&idx=1&sn=1badc3b3327309bf1c583ebd09cd77a4&chksm=88639ba1bf1412b7ca8bfa5a04ae7d2e2fe7f235d4b29bb8dcdc2453e3c0a6ab9f80a5c98ad8&mpshare=1&scene=23&srcid=110929zMSfxLykXQWDQ9Lyxv#rd)
     * [Fragment完全解析](http://www.jianshu.com/p/d9143a92ad94)
     * [RecyclerView 使用详解](http://blog.csdn.net/lmj623565791/article/details/45059587)
-    * [Android 面试系列](http://www.jianshu.com/users/f9fbc7a39b36/latest_articles)
     * [Android 动画介绍](http://blog.csdn.net/guolin_blog/article/details/43536355)
 
     
