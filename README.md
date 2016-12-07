@@ -12,6 +12,7 @@
     * [RecyclerView 使用详解](http://blog.csdn.net/lmj623565791/article/details/45059587)
     * [Android 动画介绍](http://blog.csdn.net/guolin_blog/article/details/43536355)
     * [Java中Vector和ArrayList的区别](http://www.cnblogs.com/wanlipeng/archive/2010/10/21/1857791.html)
+    * [Android序列化之Serializable和Parcelable](http://www.cnblogs.com/RGogoing/p/5209516.html)
 
     
     
