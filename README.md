@@ -10,6 +10,7 @@
     * [Android跨进程通信之AIDL快速入门](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650237646&idx=1&sn=1badc3b3327309bf1c583ebd09cd77a4&chksm=88639ba1bf1412b7ca8bfa5a04ae7d2e2fe7f235d4b29bb8dcdc2453e3c0a6ab9f80a5c98ad8&mpshare=1&scene=23&srcid=110929zMSfxLykXQWDQ9Lyxv#rd)
     * [Fragment完全解析](http://www.jianshu.com/p/d9143a92ad94)
     * [数据库存储路径修改](http://blog.csdn.net/howlaa/article/details/46707159)
+    * [OkHttp 优点](http://www.cnblogs.com/moliying/p/5722380.html)
     * [RecyclerView 使用详解](http://blog.csdn.net/lmj623565791/article/details/45059587)
     * [Android 6.0权限详解](http://blog.csdn.net/lmj623565791/article/details/50709663)
     * [Android 动画介绍](http://blog.csdn.net/guolin_blog/article/details/43536355)
