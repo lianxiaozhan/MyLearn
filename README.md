@@ -19,8 +19,8 @@
     * [java 反射机制](http://www.cnblogs.com/lzq198754/p/5780331.html)
     * [Async-Http Volley OkHttp Retrofit 对比](http://blog.csdn.net/carson_ho/article/details/52171976)
     * [mvc,mvp,mvvm](http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html)
-  *    [Service 学习](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821634&idx=1&sn=8fe650dc57d77f62af13594a62b52471&chksm=80b7809cb7c0098a4df4f7f3fc23915de54c8b825667d844798edcddf34474af2e75ea8ee56f&mpshare=1&scene=23&srcid=1208shy1DliE0qIeKusbjGsH#rd)
-  * [内存泄漏简析]（http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650238704&idx=1&sn=ad334840afdc2d9bdb8215e9f942e54e&chksm=88639f9fbf1416898edfc3615a7ea25f6798e3bb6f3089ca720e18b92ce67328c623561cf35e&mpshare=1&scene=23&srcid=0228Byyf7zETEeCuNvCwKeaP#rd）
+    * [内存泄漏](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650238704&idx=1&sn=ad334840afdc2d9bdb8215e9f942e54e&chksm=88639f9fbf1416898edfc3615a7ea25f6798e3bb6f3089ca720e18b92ce67328c623561cf35e&mpshare=1&scene=23&srcid=0228Byyf7zETEeCuNvCwKeaP#rd)
+    * [Service 学习](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821634&idx=1&sn=8fe650dc57d77f62af13594a62b52471&chksm=80b7809cb7c0098a4df4f7f3fc23915de54c8b825667d844798edcddf34474af2e75ea8ee56f&mpshare=1&scene=23&srcid=1208shy1DliE0qIeKusbjGsH#rd)
     
     
  
