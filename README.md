@@ -1,4 +1,3 @@
-# MyLearn
 * Android知识点
  * [java 强引用 软引用 弱引用 虚引用](http://blog.csdn.net/lengyuhong/article/details/6398184)
     * [SparseArray SparseIntArray SparseBooleanArray](http://www.lxway.com/42920216.htm)  
@@ -21,10 +20,7 @@
     * [内存泄漏](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650238704&idx=1&sn=ad334840afdc2d9bdb8215e9f942e54e&chksm=88639f9fbf1416898edfc3615a7ea25f6798e3bb6f3089ca720e18b92ce67328c623561cf35e&mpshare=1&scene=23&srcid=0228Byyf7zETEeCuNvCwKeaP#rd)
     * [Service 学习](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821634&idx=1&sn=8fe650dc57d77f62af13594a62b52471&chksm=80b7809cb7c0098a4df4f7f3fc23915de54c8b825667d844798edcddf34474af2e75ea8ee56f&mpshare=1&scene=23&srcid=1208shy1DliE0qIeKusbjGsH#rd)
     * [App启动优化](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650822284&idx=1&sn=d6b30ab442f417cbd992e784945c7799&chksm=80b78212b7c00b049243a474933e7a3f356c8b6fca1e8d67a9fcf654cef095c0c28f6a51e31c&mpshare=1&scene=23&srcid=0310iyCgpSkBMu18t5ht3Jmz#rd)
-    
- 
-    
-
+   * [android编码规范](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650238851&idx=1&sn=f6f7172cc105c667eac5e1da86c98ff7&chksm=88639eecbf1417fa4e7193233aa5de11ddb662f413ed040f0d92cf84035aee8506d2bccbb9a3&mpshare=1&scene=23&srcid=0313pg2DEcXNEh9983QAoBBm#rd)
     
     
 ---------------------------------------------------------------------------------------------------
